@@ -1,0 +1,35 @@
+001-первая книга:
+Джон Карнел Микросервисы Spring в действии (2022)
+
+(По главам - важные направления
+
+00 - Spring CLoud ( Spring Cloud Config, Cloud Service Discovery, CLoud LoadBalanacer, 
+   Cloud API Gateway, Cloud Stream, Cloud Sleuth, Cloud Security )
+00 - Spring boot (Spring HATEOAS)
+00 - Docker (Dockerfile, Docker + Spring Boot, Docker Compose)
+00 - Управление конфигурациями с использованием Spring Cloud Configuration Server (
+  @ConfigurationProperties)
+00 - Обнаружение служб Spring Eureka, Spring Discovery Client, Spring REST с поддержкой 
+00 - Балансировка нагрузки Spring Cloud и Resilience4j
+00 - Маршрутизация служб с использованием Spring Cloud Gateway
+00 - Безопасность микросервисов (Keycloak OAuth2 Spring Security)
+00 - Событийно-ориентированная архитектура и Spring Cloud Stream
+00 - Развертывание Микросервисов (ELK O-Stock)
+00- Spring HATEOAS
+
+1 Zipkin
+2 Spring Cloud Sleuth (переход на проект Micrometer tracing)
+3 ELK (Elasticsearch Logstash Kibana)
+4 API gateway(шлюз) + Служба обнаружения Eureka
+5 Аутентификация в Keycloak, Oauth2, CORS, LDAP, Active Directory Servers
+6 Kafka
+7 Redis 
+8 Stack Grafana Prometeus
+9 Docker 
+10 Kubernetes
+11 CI/CD
+12 Spring boot 
+13 Spring boot Actuator
+14 Spring Cloud
+15 Maven Gradle
+16 XaaS, IaaS
